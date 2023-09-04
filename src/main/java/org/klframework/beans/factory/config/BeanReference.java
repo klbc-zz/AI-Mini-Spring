@@ -5,7 +5,7 @@ package org.klframework.beans.factory.config;
  * 
  * @author 刘康炼
  * @date 2023/8/29
- * @time 15:39
+ * @time 15:53
  * @Description 
  */
 public class BeanReference {
